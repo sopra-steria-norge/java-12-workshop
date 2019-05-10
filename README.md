@@ -17,7 +17,9 @@ Javadoc:
 Skulle du bli ferdig med resten av oppgavene, så oppfordrer vi til at du leter frem informasjon om endringer selv, og prøver ut noe du synes virker interessant. 
 
 # Del 1 (IntelliJ)
-
+## Oppgave 1-4 ligger under modules folderen
+Her ligger den en run.sh i hver av oppgavene, disse kan enten kjøres direkte eller så kan kommandoene i filen kjøres hver for seg. Merk at mkdir kanskje er unødvendig da.
+OBS: jdk/bin må være lagt til på systemmiljøvariablen "path" 
 ## Oppgave 5 - Http2 client (Java 9/11)
 ## a)
 Ferdigstill implementasjon av DovreKlient slik at svaret på hvorvidt dovre har falt hentes vha den nye Http2-klienten vha synkrone kall mot http://www.vondess.com/dovre/api. 
