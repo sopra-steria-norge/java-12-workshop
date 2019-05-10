@@ -27,8 +27,7 @@ Link til [Javadoc](https://docs.oracle.com/en/java/javase/11/docs/api/index.html
 
 ## Oppgave 6 - Private methods i interfacer (Java 9)
 
-## a)
-Få testene i _DemoInterfaceTest.java_ til å gå grønt uten å utvide interface med nye metoder.
+Få testene i _DemoInterfaceTest.java_ til å gå grønt uten å utvide interfacet med nye metoder.
 
 ## Oppgave 7 - Local variable type inference (Java 10)
 
