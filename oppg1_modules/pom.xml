@@ -11,10 +11,6 @@
 
     <artifactId>oppg1_modules</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>modul1</module>
-        <module>modul2</module>
-    </modules>
 
 
 </project>
