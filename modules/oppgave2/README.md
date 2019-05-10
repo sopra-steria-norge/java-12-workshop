@@ -1,0 +1,1 @@
+1. Kjør eksempelet med run.sh (ev. bruk kommandoene den inneholder direkte). Hvordan kan vi sørge for at alle brukere av module.api også har tilgang til klassen Person uten å bruke en "requires module" direkte?

@@ -1,0 +1,1 @@
+1. Kjør run.sh eller kommandoene den inneholder for å se at classpath fortsatt eksisterer og at ikke modulær kode kan kompileres og kjøres på Java 9+
