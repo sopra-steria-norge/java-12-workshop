@@ -8,7 +8,7 @@ public class Eksempel {
     private String forsoekOgEndreMeg = "Kan jeg endres til var?";
 
 
-    public Map<String, List<Integer>> hentMapMedListe() {
+    private Map<String, List<Integer>> hentMapMedListe() {
         return Map.of("Hei", List.of(1,2,3));
     }
 
@@ -37,4 +37,10 @@ public class Eksempel {
     public String viktigTekst() {
         return "Kan returtypen endres til var?";
     }
+
+    public void benytterMapMedListe() {
+        Map<String, List<Integer>> stringListMap = hentMapMedListe();
+    }
+
+
 }
