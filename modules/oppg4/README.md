@@ -12,3 +12,5 @@ I oppg4 directory (husk at JDK pathen kan være forskjellig fra denne):
 
 2. Kjør eksempelet
  - out-standalone/bin/java --module module.client/client.Client
+
+3. Hvor stor er out-standalone folderen som nå inneholder et fullverdig runtime environment for applikasjonen din?

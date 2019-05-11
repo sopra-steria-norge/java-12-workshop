@@ -3,7 +3,7 @@ Oppgavene tar for seg litt av det som er nytt i java9, 10, 11 og 12.
 
 Oppgavene er delt inn i to deler, der den første anbefales utført i IntelliJ, mens den andre anbefales utført i JShell.  Du står fritt til å hoppe mellom deler- og oppgaver som du ønsker. 
 
-Merk at Git bash ikke anbefales for jshell-oppgaver, men kan benyttes ved å kjøre "winpty jshell".
+Skulle du få problemer med Git bash og jshell, kan du ev. benytte "winpty jshell".
 
 NB! Har du en settings.xml som er endret for å fungere for prosjektet ditt? Da bør du endre tilbake til standard settings.xml.
 
