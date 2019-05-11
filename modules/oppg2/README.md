@@ -1,3 +1,6 @@
+javac -d build --module-source-path src -m module.one,module.two
+java --module-path build -m module.one/one.One
+
 1. Få dette modulære eksempelet til å bygge.
 2. Hvorfor må java.logging legges til i moduldeskriptoren mens java.time fungerer?
 3. Modulen din har default tilgang til java.base kjør "java --describe-module java.base" for å se moduldeskriptoren dens.

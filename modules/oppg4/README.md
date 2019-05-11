@@ -1,3 +1,6 @@
+javac -d build --module-source-path src -m module.client,service.provider.one,service.provider.two,service.api
+java --module-path build -m module.client/client.Client
+
 Dette er et eksempel på bruk av Java's ServiceLoader.
 1. Løs kompileringsfeilen som klager på visibilitet slik at eksempelet kan kjøre.
 2. Vi har to Service implementasjoner, men kun den ene blir funnet. Hvorfor? Se om du ikke kan også få den andre til å synes.
